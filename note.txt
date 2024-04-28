@@ -1,0 +1,13 @@
+CSS type:
+inline
+internal
+external
+Type of Selector:
+tag/element -h1
+class
+id
+
+
+measurement unit of style in font size(may we useevery measurement)
+
+px, pt, em, rem, %

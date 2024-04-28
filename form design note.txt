@@ -1,0 +1,27 @@
+
+get method: usees for normal page which is not required to security purpose.
+
+post method: POST method is more secured where sometimes page belongs user name and password. Then for security purpose must use POST method
+
+enctype: 
+multipart - multipart belong uploading data part by part.
+form-data- this content belong upload data from form page
+
+name: is more important to declare in form which is connect to backend code to pass the data in DB.
+
+placeholder: place holder delare which value contain in text filed.
+
+
+class: first_name
+
+value: If you delcare the value in value filed then data pass the DB. sometimes it need to pass default value passing in DB is is delcare by dev. if you required to change value then you can do it.
+value="Kowshick"
+Label: for="first_name" and id="first_name" must be same.
+
+Note: to learn 
+row span: to merge two row span
+col span: to merge two col span
+
+<tbody></tbody>
+<thead></thead>
+<tfoot></tfoot>
